@@ -1,0 +1,22 @@
+.navbar{ 
+    background-color: burlywood;
+}
+
+.servicos {
+    background-color: rgba(201, 147, 116, 0.863);
+
+}
+
+.margin{
+    padding-top: 50px;
+    /*padding-bottom: 20px;*/
+
+}
+
+/*.modalidade{
+    font:Helvetica; 
+    size:30px; 
+    color: blue;}
+.recorde{color:blue; font-size:30px;}
+.nacionalidade{color:blue; font-size:30px;} 
+.nome{font-size:30px; color:blue} */
