@@ -1,15 +1,30 @@
+body{
+    font: 20px Arial, sans-serif;
+
+}
+
 .navbar{ 
     background-color: burlywood;
 }
 
-.servicos {
+.contato {
     background-color: rgba(201, 147, 116, 0.863);
+    color: white;
 
 }
 
 .margin{
-    padding-top: 50px;
-    /*padding-bottom: 20px;*/
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgba(153, 133, 78, 0.884);
+
+}
+
+.bg-footer{
+    background-color: orange;
 
 }
 
